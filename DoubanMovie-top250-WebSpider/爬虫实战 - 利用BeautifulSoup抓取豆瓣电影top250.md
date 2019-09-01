@@ -48,10 +48,10 @@ https://movie.douban.com/top250?start=50&filter=
 ### 网页结构怎么看
 比如<div> ......... </div>中间代表一级，就像是左括号和右括号一样。我要看的电影信息就在<div class='item'>里面；
 再举个例子，我要找到电影的title，路径是这样的：
-1 <div class='item'> 
-2 <div class="hd">
-3  <a href="https://movie.douban.com/subject/1292052/" class="">
-4 <span class="title">
+1 `<div class='item'> `
+2 `<div class="hd">`
+3 `<a href="https://movie.douban.com/subject/1292052/" class="">`
+4 `<span class="title">`
 
 **敲重点了，如果你要读的是第二个span里的值怎么办？**
 读到第一个span然后 `.next_sibling`
