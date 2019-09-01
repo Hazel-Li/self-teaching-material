@@ -1,0 +1,251 @@
+,cast,eng_title,other,rating,title
+0,"[' Frank Darabont', ' Tim Robbins']",The Shawshank Redemption,"['弗兰克·德拉邦特', '蒂姆·罗宾斯', '美国', '犯罪']",9.7,肖申克的救赎
+1,"[' Kaige Chen', ' Leslie Cheung', ' Fengyi']",再见，我的妾  /  Farewell My Concubine,"['陈凯歌', '张国荣', '张丰毅', '中国大陆', '中国香港', '剧情', '爱情']",9.6,霸王别姬
+2,"[' Robert Zemeckis', ' Tom Hanks']",Forrest Gump,"['罗伯特·泽米吉斯', '汤姆·汉克斯', '美国', '剧情']",9.5,阿甘正传
+3,"[' Luc Besson', ' Jean Reno']",Léon,"['吕克·贝松', '让·雷诺', '娜塔莉·波特曼', '法国', '剧情', '动作']",9.4,这个杀手不太冷
+4,"[' Roberto Benigni', ' Roberto']",La vita è bella,"['罗伯托·贝尼尼', '罗伯托·贝尼尼', '意大利', '剧情', '喜剧', '爱情']",9.5,美丽人生
+5,[' James Cameron'],Titanic,"['詹姆斯·卡梅隆', '莱昂纳多·迪卡普里奥', '美国', '剧情', '爱情']",9.4,泰坦尼克号
+6,"[' Hayao Miyazaki', ' Rumi']",千と千尋の神隠し,"['宫崎骏', '柊瑠美', '入野自由', '日本', '剧情', '动画']",9.3,千与千寻
+7,"[' Steven Spielberg', ' Liam']",Schindler's List,"['史蒂文·斯皮尔伯格', '连姆·尼森', '美国', '剧情', '历史']",9.5,辛德勒的名单
+8,[' Christopher Nolan'],Inception,"['克里斯托弗·诺兰', '莱昂纳多·迪卡普里奥', '美国', '英国', '剧情', '科幻', '悬疑']",9.3,盗梦空间
+9,"[' Lasse', ' Richard']",Hachi: A Dog's Tale,"['莱塞·霍尔斯道姆', '理查·基尔', '美国', '英国']",9.3,忠犬八公的故事
+10,"[' Andrew Stanton', ' Ben Burtt']",WALL·E,"['安德鲁·斯坦顿', '本·贝尔特', '美国', '爱情', '科幻', '动画']",9.3,机器人总动员
+11,"[' Rajkumar Hirani', ' Aamir Khan']",3 Idiots,"['拉库马·希拉尼', '阿米尔·汗', '印度', '剧情', '喜剧', '爱情']",9.2,三傻大闹宝莱坞
+12,[' Christophe Barratier'],Les choristes,"['克里斯托夫·巴拉蒂', '热拉尔·朱尼奥', '法国', '瑞士', '德国', '剧情']",9.3,放牛班的春天
+13,"[' Giuseppe Tornatore', ' Tim Roth']",La leggenda del pianista sull'oceano,"['朱塞佩·托纳多雷', '蒂姆·罗斯', '意大利', '剧情']",9.2,海上钢琴师
+14,"[' Peter Weir', ' Jim Carrey']",The Truman Show,"['彼得·威尔', '金·凯瑞', '劳拉·琳妮', '美国', '剧情']",9.2,楚门的世界
+15,"[' Christopher Nolan', ' Matthew']",Interstellar,"['克里斯托弗·诺兰', '马修·麦康纳', '美国', '英国', '加拿大', '冰岛', '剧情', '科幻']",9.3,星际穿越
+16,"[' Jeffrey Lau', ' Stephen Chow', ' Man Tat']",西遊記大結局之仙履奇緣,"['刘镇伟', '周星驰', '吴孟达', '中国香港', '中国大陆', '喜剧', '爱情', '奇幻']",9.2,大话西游之大圣娶亲
+17,"[' Hayao Miyazaki', ' Noriko Hidaka']",となりのトトロ,"['宫崎骏', '日高法子', '坂本千夏', '日本', '动画', '奇幻']",9.2,龙猫
+18,"['hyuk Hwang', ' Yoo Gong', 'mi Jeong']",도가니,"['黄东赫', '孔侑', '郑有美', '韩国']",9.3,熔炉
+19,[' Francis Ford Coppola'],The Godfather,"['弗朗西斯·福特·科波拉', '马龙·白兰度', '美国', '剧情']",9.3,教父
+20,[],無間道,"['刘伟强', '麦兆辉', '刘德华', '梁朝伟', '黄秋生', '中国香港', '剧情', '犯罪']",9.2,无间道
+21,"[' Byron Howard', ' Rich Moore']",Zootopia,"['拜伦·霍华德', '瑞奇·摩尔', '美国', '喜剧', '动画']",9.2,疯狂动物城
+22,"[' Gabriele Muccino', ' Will Smith']",The Pursuit of Happyness,"['加布里尔·穆奇诺', '威尔·史密斯', '美国', '剧情', '传记']",9.1,当幸福来敲门
+23,"[' Rob Reiner', ' Madeline Carroll']",Flipped,"['罗伯·莱纳', '玛德琳·卡罗尔', '美国', '剧情', '喜剧']",9.0,怦然心动
+24,"[' Olivier Nakache', ' Eric Toledano']",Intouchables,"['奥利维·那卡什', '艾力克·托兰达', '法国', '剧情']",9.2,触不可及
+25,[' Christopher Nolan'],The Dark Knight,"['克里斯托弗·诺兰', '克里斯蒂安·贝尔', '美国', '英国', '剧情', '动作', '科幻', '犯罪']",9.1,蝙蝠侠：黑暗骑士
+26,"[' Victor Fleming', ' George Cukor']",Gone with the Wind,"['维克多·弗莱明', '乔治·库克', '美国', '剧情', '历史', '爱情']",9.3,乱世佳人
+27,"[' Yimou Zhang', ' You Ge', ' Li Gong', ' Wu Jiang']",人生  /  Lifetimes,"['张艺谋', '葛优', '巩俐', '姜武', '中国大陆', '中国香港', '剧情', '历史']",9.2,活着
+28,"[' Billy Wilder', ' Tyrone Power']",Witness for the Prosecution,"['比利·怀尔德', '泰隆·鲍华', '美国', '剧情', '犯罪']",9.6,控方证人
+29,"[' Ang Lee', ' Suraj Sharma']",Life of Pi,"['李安', '苏拉·沙玛', '伊尔凡·可汗', '美国', '中国台湾', '英国', '加拿大', '剧情', '奇幻']",9.0,少年派的奇幻漂流
+30,"[' Nitesh Tiwari', ' Aamir Khan']",Dangal,"['涅提·蒂瓦里', '阿米尔·汗', '印度', '剧情', '传记', '运动']",9.0,摔跤吧！爸爸
+31,"[' Peter Jackson', ' Viggo Mortensen']",The Lord of the Rings: The Return of the King,"['彼得·杰克逊', '维果·莫腾森', '美国', '新西兰', '剧情', '动作', '奇幻']",9.2,指环王3：王者无敌
+32,"[' Hayao Miyazaki', ' Mayumi Tanaka']",天空の城ラピュタ,"['宫崎骏', '田中真弓', '横泽启子', '日本', '动画', '奇幻']",9.1,天空之城
+33,"[' Wen Jiang', ' Wen Jiang', ' Teruyuki Kagawa']",Devils on the Doorstep,"['姜文', '姜文', '香川照之', '中国大陆', '剧情', '历史']",9.2,鬼子来了
+34,"['Sidney Lumet', ' Henry Fonda']",12 Angry Men,"['亨利·方达', '马丁·鲍尔萨姆', '美国']",9.4,十二怒汉
+35,[' Giuseppe Tornatore'],Nuovo Cinema Paradiso,"['朱塞佩·托纳多雷', '安东内拉·阿蒂利', '意大利', '法国', '剧情']",9.2,天堂电影院
+36,"[' Pete Docter', ' Bob Peterson']",Up,"['彼特·道格特', '鲍勃·彼德森', '美国', '剧情', '喜剧', '动画']",9.0,飞屋环游记
+37,"[' Jeffrey Lau', ' Stephen Chow', ' Man Tat']",西遊記第壹佰零壹回之月光寶盒,"['刘镇伟', '周星驰', '吴孟达', '中国香港', '中国大陆', '喜剧', '爱情', '奇幻']",9.0,大话西游之月光宝盒
+38,"[' Hayao Miyazaki', ' Chieko']",ハウルの動く城,"['宫崎骏', '倍赏千惠子', '日本', '动画', '奇幻']",9.0,哈尔的移动城堡
+39,"[' William Wyler', ' Audrey Hepburn']",Roman Holiday,"['威廉·惠勒', '奥黛丽·赫本', '美国', '喜剧', '剧情']",9.0,罗马假日
+40,"[' David Fincher', ' Edward Norton']",Fight Club,"['大卫·芬奇', '爱德华·诺顿', '美国', '德国', '剧情', '动作', '悬疑']",9.0,搏击俱乐部
+41,"[' Bernardo Bertolucci', ' John Lone']",The Last Emperor,"['贝纳尔多·贝托鲁奇', '尊龙', '英国', '意大利', '中国大陆', '法国', '剧情', '传记']",9.2,末代皇帝
+42,"[' Lee Unkrich', ' Adrian Molina']",Coco,"['李·昂克里奇', '阿德里安·莫利纳', '美国', '喜剧', '动画', '奇幻']",9.0,寻梦环游记
+43,"[' Martin Brest', ' Al Pacino']",Scent of a Woman,"['马丁·布莱斯', '阿尔·帕西诺', '美国']",9.0,闻香识女人
+44,"['seok Yang', 'ho Song', 'su']",변호인,"['杨宇硕', '宋康昊', '吴达洙', '韩国']",9.2,辩护人
+45,"['ik Lee', 'gu Sol', 'won Uhm']",소원,"['李濬益', '薛景求', '严志媛', '韩国']",9.2,素媛
+46,[' Florian Henckel von Donnersmarck'],Das Leben der Anderen,"['弗洛里安·亨克尔·冯·多纳斯马尔克', '德国', '剧情']",9.1,窃听风暴
+47,"[' Peter Weir', ' Robin Williams']",Dead Poets Society,"['彼得·威尔', '罗宾·威廉姆斯', '美国']",9.0,死亡诗社
+48,"['Guy Ritchie', 'Jason Flemyng', 'Dexter Fletcher', 'Nick Moran']","Lock, Stock and Two Smoking Barrels","['英国', '剧情', '喜剧']",9.1,两杆大烟枪
+49,"[' Forman', ' Jack']",One Flew Over the Cuckoo's Nest,"['米洛斯·福尔曼', '杰克·尼科尔森', '美国']",9.1,飞越疯人院
+50,"[' Peter Jackson', ' Elijah Wood']",The Lord of the Rings: The Two Towers,"['彼得·杰克逊', '伊利亚·伍德', '美国', '新西兰', '剧情', '动作', '奇幻']",9.0,指环王2：双塔奇兵
+51,[' Francis Ford Coppola'],The Godfather: Part Ⅱ,"['弗朗西斯·福特·科波拉', '阿尔·帕西诺', '美国', '剧情']",9.2,教父2
+52,"['Roger Allers', ' Rob Minkoff']",The Lion King,"['罗伯·明可夫', '美国', '动画', '冒险']",9.0,狮子王
+53,"[' Peter Jackson', ' Elijah Wood']",The Lord of the Rings: The Fellowship of the Ring,"['彼得·杰克逊', '伊利亚·伍德', '新西兰', '美国', '剧情', '动作', '奇幻']",9.0,指环王1：魔戒再现
+54,"[' James McTeigue', ' Natalie']",V for Vendetta,"['詹姆斯·麦克特格', '娜塔莉·波特曼', '美国', '英国', '德国', '剧情', '动作', '科幻']",8.9,V字仇杀队
+55,"[' Ron Howard', ' Russell Crowe']",A Beautiful Mind,"['朗·霍华德', '罗素·克劳', '美国', '传记']",9.0,美丽心灵
+56,"[' Ang Lee', ' Sihung Lung', 'Mei Yang']",飲食男女,"['李安', '郎雄', '杨贵媚', '中国台湾', '美国', '剧情']",9.1,饮食男女
+57,"[' Nadine Labaki', ' Zain', 'Rafeea']",كفرناحوم,"['娜丁·拉巴基', '扎因·拉费阿', '黎巴嫩', '法国', '美国']",9.1,何以为家
+58,"[' Louie Psihoyos', 'Richard', 'Barry']",The Cove,"['路易·西霍尤斯', '美国']",9.3,海豚湾
+59,"[' Shunji Iwai', ' Miho Nakayama']",Love Letter,"['岩井俊二', '中山美穗', '丰川悦司', '日本', '剧情']",8.9,情书
+60,"[' Laiming Wan', ' Cheng  Tang', ' Yuefeng Qiu']",大闹天宫 上下集  /  The Monkey King,"['万籁鸣', '唐澄', '邱岳峰', '中国大陆', '动画']",9.3,大闹天宫
+61,"[' Roman Polanski', ' Adrien']",The Pianist,"['罗曼·波兰斯基', '艾德里安·布洛迪', '法国', '德国', '英国', '波兰', '剧情', '传记', '历史', '战争']",9.1,钢琴家
+62,"['Chris Columbus', 'Daniel Radcliffe', 'Emma Watson', 'Rupert Grint']",Harry Potter and the Sorcerer's Stone,"['美国', '英国', '奇幻']",8.9,哈利·波特与魔法石
+63,"[' David Fincher', ' Cate Blanchett']",The Curious Case of Benjamin Button,"['大卫·芬奇', '凯特·布兰切特', '美国', '剧情', '爱情']",8.9,本杰明·巴顿奇事
+64,"[' Oriol Paulo', ' Mario Casas']",Contratiempo,"['奥里奥尔·保罗', '马里奥·卡萨斯', '西班牙', '剧情', '犯罪', '悬疑']",8.8,看不见的客人
+65,"[' Andy Wachowski', ' Lana Wachowski']",The Matrix,"['安迪·沃卓斯基', '拉娜·沃卓斯基', '美国', '澳大利亚', '动作']",8.9,黑客帝国
+66,"[' Giuseppe Tornatore', ' Monica']",Malèna,"['朱塞佩·托纳多雷', '莫妮卡·贝鲁奇', '意大利', '美国', '剧情', '战争']",8.8,西西里的美丽传说
+67,"[' Majid Majidi', ' Amir']",بچههای آسمان,"['马基德·马基迪', '法拉赫阿米尔·哈什米安', '伊朗', '剧情', '儿童']",9.2,小鞋子
+68,"[' Wen Jiang', ' Wen Jiang', ' You Ge']",让子弹飞一会儿  /  火烧云,"['姜文', '姜文', '葛优', '周润发', '中国大陆', '中国香港', '剧情', '喜剧', '动作']",8.8,让子弹飞
+69,"[' Sergio Leone', ' Robert De Niro']",Once Upon a Time in America,"['赛尔乔·莱翁内', '罗伯特·德尼罗', '意大利', '美国', '犯罪']",9.2,美国往事
+70,"[' Steven Spielberg', ' Tom']",Saving Private Ryan,"['史蒂文·斯皮尔伯格', '汤姆·汉克斯', '美国', '剧情', '历史']",9.0,拯救大兵瑞恩
+71,"[' Robert Wise', ' Julie Andrews']",The Sound of Music,"['罗伯特·怀斯', '朱莉·安德鲁斯', '美国', '剧情', '传记', '爱情']",9.0,音乐之声
+72,[' Steven Spielberg'],Catch Me If You Can,"['史蒂文·斯皮尔伯格', '莱昂纳多·迪卡普里奥', '美国', '加拿大', '传记', '犯罪']",8.9,猫鼠游戏
+73,"[' Christopher Nolan', ' Hugh']",The Prestige,"['克里斯托弗·诺兰', '休·杰克曼', '美国', '英国', '剧情', '悬疑']",8.8,致命魔术
+74,"[' David Fincher', ' Morgan Freeman']",Se7en,"['大卫·芬奇', '摩根·弗里曼', '美国', '剧情', '犯罪', '悬疑']",8.8,七宗罪
+75,"[' Tetsuya Nakashima', ' Miki Nakatani']",嫌われ松子の一生,"['中岛哲也', '中谷美纪', '瑛太', '日本', '剧情']",8.9,被嫌弃的松子的一生
+76,"[' Quentin Tarantino', ' John']",Pulp Fiction,"['昆汀·塔伦蒂诺', '约翰·特拉沃尔塔', '美国', '剧情', '喜剧']",8.8,低俗小说
+77,"[' Jonathan Demme', ' Jodie Foster']",The Silence of the Lambs,"['乔纳森·戴米', '朱迪·福斯特', '美国', '剧情', '犯罪']",8.8,沉默的羔羊
+78,"[' Eric Bress', 'Mackye Gruber']",The Butterfly Effect,"['埃里克·布雷斯', '·麦基·格鲁伯', '美国', '加拿大', '剧情', '悬疑', '科幻']",8.8,蝴蝶效应
+79,"[' Kar Wai Wong', ' Leslie Cheung', ' Tony']",春光乍洩,"['王家卫', '张国荣', '梁朝伟', '中国香港', '日本', '韩国', '剧情', '爱情']",8.9,春光乍泄
+80,"[' Mark Herman', ' Asa Butterfield']",The Boy in the Striped Pajamas,"['马克·赫尔曼', '阿萨·巴特菲尔德', '英国', '美国', '剧情']",9.0,穿条纹睡衣的男孩
+81,"[' Mel Gibson', ' Mel Gibson']",Braveheart,"['梅尔·吉布森', '梅尔·吉布森', '美国', '动作', '传记', '剧情', '历史']",8.9,勇敢的心
+82,"['Pierre Jeunet', ' Audrey']",Le fabuleux destin d'Amélie Poulain,"['皮埃尔·热内', '奥黛丽·塔图', '法国', '德国', '喜剧']",8.7,天使爱美丽
+83,"[' Tim Burton', ' Johnny Depp']",Edward Scissorhands,"['蒂姆·波顿', '约翰尼·德普', '美国', '剧情', '奇幻']",8.7,剪刀手爱德华
+84,"[' Gus Van Sant', ' Matt Damon']",Good Will Hunting,"['格斯·范·桑特', '马特·达蒙', '美国']",8.8,心灵捕手
+85,"['Martin Scorsese', ' Leonardo DiCaprio']",Shutter Island,"['莱昂纳多·迪卡普里奥', '美国', '剧情', '悬疑']",8.8,禁闭岛
+86,"[' Wes Anderson', ' Ralph Fiennes']",The Grand Budapest Hotel,"['韦斯·安德森', '拉尔夫·费因斯', '美国', '德国', '英国', '剧情', '喜剧']",8.8,布达佩斯大饭店
+87,"[' James Cameron', ' Sam Worthington']",Avatar,"['詹姆斯·卡梅隆', '萨姆·沃辛顿', '美国', '英国', '动作', '战争', '科幻']",8.7,阿凡达
+88,"[' Takita', ' Masahiro Motoki']",おくりびと,"['泷田洋二郎', '本木雅弘', '日本']",8.8,入殓师
+89,"[' Hayao Miyazaki', ' Matsuda']",もののけ姫,"['宫崎骏', '松田洋治', '日本', '动画', '奇幻']",8.9,幽灵公主
+90,"[' Gore Verbinski', ' Johnny Depp']",Pirates of the Caribbean: The Curse of the Black Pearl,"['戈尔·维宾斯基', '约翰尼·德普', '美国', '动作', '冒险']",8.7,加勒比海盗
+91,"[' Charles Chaplin', ' Charles Chaplin']",Modern Times,"['查理·卓别林', '查理·卓别林', '美国', '剧情', '喜剧']",9.3,摩登时代
+92,"['James Mangold', 'John Cusack', 'Ray Liotta', 'Amanda Peet']",Identity,"['美国', '剧情', '悬疑']",8.7,致命ID
+93,"[' Ang Lee', ' Heath Ledger']",Brokeback Mountain,"['李安', '希斯·莱杰', '杰克·吉伦哈尔', '美国', '加拿大', '剧情', '爱情', '同性']",8.7,断背山
+94,"[' Wen Jiang', ' Yu Xia', ' Jing Ning', ' Hong Tao']",In the Heat of the Sun,"['姜文', '夏雨', '宁静', '陶虹', '中国大陆', '中国香港', '剧情']",8.8,阳光灿烂的日子
+95,"[' Kar Wai Wong', ' Brigitte Lin', ' Takeshi']",重慶森林,"['王家卫', '林青霞', '金城武', '中国香港', '剧情']",8.7,重庆森林
+96,"['Night Shyamalan', ' Bruce']",The Sixth Sense,"['·奈特·沙马兰', '布鲁斯·威利斯', '美国', '剧情', '悬疑']",8.8,第六感
+97,"[' Thomas Vinterberg', ' Mads']",Jagten,"['托马斯·温特伯格', '麦斯·米科尔森', '丹麦', '瑞典']",9.1,狩猎
+98,"[' Stephen Chow', 'Chi Lee', ' Stephen']",喜劇之王,"['周星驰', '李力持', '周星驰', '中国香港', '喜剧', '剧情']",8.7,喜剧之王
+99,"[' Adam Elliot', ' Toni Collette']",Mary and Max,"['亚当·艾略特', '托妮·科莱特', '澳大利亚', '剧情', '喜剧']",8.9,玛丽和马克思
+100,"[' Muye Wen', ' Zheng Xu', ' Chuanjun Wang']",中国药神  /  印度药神,"['文牧野', '徐峥', '王传君', '中国大陆', '剧情']",9.0,我不是药神
+101,"[' David Fincher', ' Ben Affleck']",Gone Girl,"['大卫·芬奇', '本·阿弗莱克', '美国', '剧情', '犯罪', '悬疑']",8.7,消失的爱人
+102,"[' Tetsuya Nakashima', ' Takako Matsu']",自白  /  母亲,"['中岛哲也', '松隆子', '冈田将生', '日本', '剧情']",8.7,告白
+103,"[' Junichi Mori', ' Ai Hashimoto']",リトル・フォレスト 夏・秋,"['森淳一', '桥本爱', '三浦贵大', '日本']",9.0,小森林 夏秋篇
+104,"[' Tim Burton', ' Ewan McGregor']",Big Fish,"['蒂姆·波顿', '伊万·麦克格雷格', '美国', '剧情', '家庭', '奇幻']",8.8,大鱼
+105,"[' Edward Yang', ' Kelly Lee']",Yi yi  /  Yi yi: A One and a Two,"['杨德昌', '吴念真', '李凯莉', '金燕玲', '中国台湾', '日本', '剧情', '爱情']",9.0,一一
+106,"[' Luca Guadagnino', ' Armie Hammer']",Call Me by Your Name,"['卢卡·瓜达尼诺', '艾米·汉莫', '意大利', '法国', '巴西', '美国', '荷兰', '德国', '剧情', '爱情']",8.8,请以你的名字呼唤我
+107,"['Cheol Kang', 'kyung Shim']",써니,"['姜炯哲', '沈恩京', '闵孝琳', '韩国', '剧情']",8.8,阳光姐妹淘
+108,"[' Richard Linklater', ' Ethan Hawke']",Before Sunrise,"['理查德·林克莱特', '伊桑·霍克', '美国', '奥地利', '瑞士', '剧情']",8.8,爱在黎明破晓前
+109,"[' Jeffrey Lau', ' Tony Leung Chiu Wai']",射鵰英雄傳之東成西就,"['刘镇伟', '梁朝伟', '林青霞', '中国香港', '喜剧', '奇幻', '武侠']",8.7,射雕英雄传之东成西就
+110,"[' Yoshifumi Kondo', ' Youko Honna']",耳をすませば,"['近藤喜文', '本名阳子', '小林桂树', '日本', '剧情', '爱情']",8.9,侧耳倾听
+111,"[' Peter Chan', ' Leon Lai', ' Maggie Cheung']",Comrades: Almost a Love Story,"['陈可辛', '黎明', '张曼玉', '中国香港', '剧情']",8.8,甜蜜蜜
+112,"[' Satoshi Kon', ' Megumi Hayashibara']",パプリカ,"['今敏', '林原惠美', '江守彻', '日本', '动画', '悬疑', '科幻']",9.0,红辣椒
+113,"[' Alain Gsponer', ' Anuk Steffen']",Heidi,"['阿兰·葛斯彭纳', '阿努克·斯特芬', '德国', '瑞士', '南非', '剧情', '冒险']",9.1,海蒂和爷爷
+114,"[' Dean DeBlois', ' Chris Sanders']",How to Train Your Dragon,"['迪恩·德布洛斯', '克里斯·桑德斯', '美国', '动画', '奇幻']",8.7,驯龙高手
+115,"['ho Bong', 'ho Song']",살인의 추억,"['奉俊昊', '宋康昊', '金相庆', '韩国', '犯罪', '剧情', '悬疑']",8.8,杀人回忆
+116,"['Tung Ching', ' Leslie Cheung', ' Joey']",倩女幽魂(87版)  /  倩女幽魂：妖魔道,"['程小东', '张国荣', '王祖贤', '中国香港', '爱情', '奇幻', '武侠']",8.7,倩女幽魂
+117,"[' Tony Kaye', ' Adrien Brody']",Detachment,"['托尼·凯耶', '艾德里安·布洛迪', '美国']",8.8,超脱
+118,"['kyeong Lee', 'yong Ryoo']",7번방의 선물,"['李焕庆', '柳承龙', '朴信惠', '韩国', '剧情', '喜剧']",8.8,7号房的礼物
+119,"['woo Kim', 'woo Ha']",더 테러 라이브,"['金秉祐', '河正宇', '李璟荣', '韩国', '剧情', '犯罪']",8.8,恐怖直播
+120,"[' Takeshi Kitano', ' Takeshi Kitano']",菊次郎の夏,"['北野武', '北野武', '关口雄介', '日本', '剧情']",8.8,菊次郎的夏天
+121,"[' David Yates', ' Daniel']",Harry Potter and the Deathly Hallows: Part 2,"['大卫·叶茨', '丹尼尔·雷德克里夫', '美国', '英国', '剧情', '悬疑', '奇幻']",8.7,哈利·波特与死亡圣器(下)
+122,"[' Junichi Mori', ' Ai Hashimoto']",リトル・フォレスト 冬・春,"['森淳一', '桥本爱', '三浦贵大', '日本']",9.0,小森林 冬春篇
+123,"[' Richard Linklater', ' Ethan Hawke']",Before Sunset,"['理查德·林克莱特', '伊桑·霍克', '美国', '剧情']",8.8,爱在日落黄昏时
+124,"[' Hayao Miyazaki', ' Sumi Shimamoto']",風の谷のナウシカ,"['宫崎骏', '岛本须美', '松田洋治', '日本', '动画', '奇幻']",8.8,风之谷
+125,"[' Steven Spielberg', ' Tom']",The Terminal,"['史蒂文·斯皮尔伯格', '汤姆·汉克斯', '美国', '喜剧', '剧情']",8.7,幸福终点站
+126,[' Christopher Nolan'],The Dark Knight Rises,"['克里斯托弗·诺兰', '克里斯蒂安·贝尔', '美国', '英国', '剧情', '动作', '科幻', '犯罪']",8.7,蝙蝠侠：黑暗骑士崛起
+127,"[' Takahiro Omori', ' Ayane Sakura']",蛍火の杜へ,"['大森贵弘', '佐仓绫音', '内山昂辉', '日本', '剧情', '爱情', '动画']",8.8,萤火之森
+128,"[' Fernando Meirelles', ' Lund']",Cidade de Deus,"['费尔南多·梅里尔斯', '卡迪亚·兰德', '巴西', '法国', '犯罪']",8.9,上帝之城
+129,"['Chi Lee', ' Stephen Chow', ' Li Gong']",唐伯虎點秋香,"['李力持', '周星驰', '巩俐', '中国香港', '喜剧', '爱情']",8.6,唐伯虎点秋香
+130,"[' Hiromasa Yonebayashi', ' Mirai Shida']",借りぐらしのアリエッティ,"['米林宏昌', '志田未来', '日本', '动画', '奇幻']",8.8,借东西的小人阿莉埃蒂
+131,"[' Don Hall', ' Chris Williams']",Big Hero 6,"['唐·霍尔', '克里斯·威廉姆斯', '美国', '喜剧', '动作', '科幻', '动画']",8.6,超能陆战队
+132,"[' Pierre Coffin', ' Chris Renaud']",Despicable Me,"['皮艾尔·柯芬', '克里斯·雷纳德', '美国', '法国', '喜剧', '动画']",8.6,神偷奶爸
+133,"[' Hirokazu Koreeda', ' Yagira']",誰も知らない,"['是枝裕和', '柳乐优弥', '日本']",9.1,无人知晓
+134,"[' Pete Docter', ' David Silverman']","Monsters, Inc.","['彼特·道格特', '大卫·斯沃曼', '美国', '儿童', '喜剧', '动画', '奇幻']",8.7,怪兽电力公司
+135,"[' James Wan', ' Leigh Whannell']",Saw,"['詹姆斯·温', '雷·沃纳尔', '美国', '悬疑', '惊悚']",8.7,电锯惊魂
+136,"[' Lee Unkrich', ' Tom Hanks']",Toy Story 3,"['李·昂克里奇', '汤姆·汉克斯', '美国', '喜剧', '动画', '奇幻']",8.8,玩具总动员3
+137,"[' Alex Law', ' Sandra Ng', ' Simon Yam']",歲月神偷,"['罗启锐', '吴君如', '任达华', '中国香港', '中国大陆', '剧情']",8.7,岁月神偷
+138,"[' Mel Gibson', ' Andrew Garfield']",Hacksaw Ridge,"['梅尔·吉布森', '安德鲁·加菲尔德', '美国', '澳大利亚', '剧情', '传记', '历史']",8.7,血战钢锯岭
+139,"[' Paul Greengrass', ' Matt Damon']",The Bourne Ultimatum,"['保罗·格林格拉斯', '马特·达蒙', '美国', '德国', '动作', '悬疑']",8.8,谍影重重3
+140,"[' Kirk De Micco', ' Chris Sanders']",The Croods,"['科克·德·米科', '克里斯·桑德斯', '美国', '喜剧', '动画']",8.7,疯狂原始人
+141,"[' John Woo', 'Fat Chow', ' Lung Ti']",A Better Tomorrow  /  Gangland Boss,"['吴宇森', '周润发', '狄龙', '中国香港', '剧情', '动作']",8.7,英雄本色
+142,"[' Ang Lee', ' Winston Chao', ' Sihung Lung']",囍宴,"['李安', '赵文瑄', '郎雄', '中国台湾', '美国', '剧情', '喜剧', '爱情', '同性']",8.9,喜宴
+143,"[' Akira Kurosawa', ' Mifune']",七人の侍,"['黑泽明', '三船敏郎', '志村乔', '日本', '动作', '冒险']",9.2,七武士
+144,[' Isao Takahata'],火垂るの墓,"['高畑勋', '辰己努', '白石绫乃', '志乃原良子', '日本', '动画', '剧情']",8.7,萤火虫之墓
+145,"[' Kar Wai Wong', ' Leslie Cheung']",東邪西毒,"['王家卫', '张国荣', '林青霞', '中国香港', '中国台湾', '剧情', '动作', '爱情', '武侠']",8.6,东邪西毒
+146,"[' Joe Wright', ' Keira Knightley']",Pride & Prejudice,"['乔·怀特', '凯拉·奈特莉', '法国', '英国', '美国', '剧情']",8.6,傲慢与偏见
+147,"[' Richard Curtis', ' Hugh Grant']",Love Actually,"['理查德·柯蒂斯', '休·格兰特', '英国', '美国', '法国', '喜剧', '剧情']",8.6,真爱至上
+148,"[' Richard Curtis', ' Domhnall']",About Time,"['理查德·柯蒂斯', '多姆纳尔·格里森', '英国', '喜剧', '爱情']",8.7,时空恋旅人
+149,"[' Danny Boyle', ' Loveleen Tandan']",Slumdog Millionaire,"['丹尼·鲍尔', '洛芙琳·坦丹', '英国', '美国', '剧情']",8.6,贫民窟的百万富翁
+150,[' Darren Aronofsky'],Black Swan,"['达伦·阿罗诺夫斯基', '娜塔莉·波特曼', '美国', '剧情']",8.5,黑天鹅
+151,"[' Christopher Nolan', ' Guy Pearce']",Memento,"['克里斯托弗·诺兰', '盖·皮尔斯', '美国', '犯罪', '剧情', '悬疑']",8.6,记忆碎片
+152,"[' Yukun Xin', ' Weimin Huo', ' Xiaotian Wang']",殡棺  /  The Coffin in the Mountain,"['忻钰坤', '霍卫民', '王笑天', '中国大陆', '剧情', '犯罪']",8.7,心迷宫
+153,"[' John Woo', 'Fat Chow', ' Leslie']",緃横四海,"['吴宇森', '周润发', '张国荣', '中国香港', '剧情', '喜剧', '动作']",8.8,纵横四海
+154,[' Francis Ford Coppola'],The Godfather: Part III,"['弗朗西斯·福特·科波拉', '阿尔·帕西诺', '美国', '剧情']",8.8,教父3
+155,[' Szifron'],Relatos salvajes,"['达米安·斯兹弗隆', '达里奥·葛兰帝内提', '阿根廷', '西班牙', '剧情', '喜剧']",8.8,荒蛮故事
+156,"[' Clint Eastwood', ' Kevin']",A Perfect World,"['克林特·伊斯特伍德', '凯文·科斯特纳', '美国', '剧情']",9.1,完美的世界
+157,"['Marc', ' Matthew']",Dallas Buyers Club,"['马克·瓦雷', '马修·麦康纳', '美国', '剧情', '传记']",8.7,达拉斯买家俱乐部
+158,[' Martin McDonagh'],"Three Billboards Outside Ebbing, Missouri","['马丁·麦克唐纳', '弗兰西斯·麦克多蒙德', '美国', '英国', '剧情']",8.7,三块广告牌
+159,"[' Barry Levinson', ' Dustin Hoffman']",Rain Man,"['巴瑞·莱文森', '达斯汀·霍夫曼', '美国']",8.7,雨人
+160,"[' Quentin Tarantino', ' Jamie Foxx']",Django Unchained,"['昆汀·塔伦蒂诺', '杰米·福克斯', '美国', '剧情', '动作', '西部']",8.7,被解救的姜戈
+161,"[' Kar Wai Wong', ' Tony Leung Chiu Wai']",花樣年華,"['王家卫', '梁朝伟', '张曼玉', '中国香港', '剧情']",8.6,花样年华
+162,"[' Terry George', ' Don Cheadle']",Hotel Rwanda,"['特瑞·乔治', '唐·钱德尔', '英国', '南非', '意大利', '美国', '剧情', '历史']",8.9,卢旺达饭店
+163,"[' Makoto Shinkai', ' Kamiki']",君の名は。,"['新海诚', '神木隆之介', '日本', '剧情', '爱情']",8.4,你的名字。
+164,"[' Jessie Nelson', 'Sean Penn', 'Dakota Fanning']",I Am Sam,"['杰茜·尼尔森', '美国', '剧情']",8.9,我是山姆
+165,"[' Dingxian Yan', ' Shuchen Wang', ' Zhenghui']",Prince Nezha's Triumph Against Dragon King  /  Nezha nao hai,"['严定宪', '王树忱', '梁正晖', '中国大陆', '冒险', '动画']",9.0,哪吒闹海
+166,"[' Pete Docter', ' Ronaldo Del Carmen']",Inside Out,"['彼特·道格特', '罗纳尔多·德尔·卡门', '美国', '喜剧', '动画']",8.7,头脑特工队
+167,"[' Kenneth Lonergan', ' Casey']",Manchester by the Sea,"['肯尼斯·罗纳根', '卡西·阿弗莱克', '美国', '剧情']",8.6,海边的曼彻斯特
+168,"[' Masaya Fujimori', ' Kappei Yamaguchi']",おまえうまそうだな,"['藤森雅也', '山口胜平', '日本', '剧情', '动画']",8.8,你看起来好像很好吃
+169,"[' Nick Cassavetes', ' Ryan Gosling']",The Notebook,"['尼克·卡索维茨', '瑞恩·高斯林', '美国', '剧情']",8.5,恋恋笔记本
+170,"[' Rich Moore', ' John', 'Reilly']",Wreck-It Ralph,"['瑞奇·莫尔', '·赖利', '美国', '喜剧', '动画', '奇幻']",8.7,无敌破坏王
+171,"[' Carlos Saldanha', ' Chris Wedge']",Ice Age,"['卡洛斯·沙尔丹哈', '克里斯·韦奇', '美国', '喜剧', '动画']",8.5,冰川时代
+172,[' Ke Guo'],Twenty Two  /  22,"['郭柯', '中国大陆']",8.7,二十二
+173,"[' Oury', ' Louis de']",La grande vadrouille,"['杰拉尔·乌里', '路易·德·菲耐斯', '法国', '英国', '喜剧']",8.9,虎口脱险
+174,"[' Satoshi Kon', ' Junko Iwao', ' Rica']",Perfect Blue,"['今敏', '岩男润子', '松本梨香', '日本', '动画', '奇幻']",8.9,未麻的部屋
+175,"[' Jacques Perrin', ' Jacques Cluzaud']",Océans,"['雅克·贝汉', '雅克·克鲁奥德', '法国', '瑞士', '西班牙', '美国', '阿联酋']",9.1,海洋
+176,"[' Morten Tyldum', ' Benedict']",The Imitation Game,"['莫滕·泰杜姆', '本尼迪克特·康伯巴奇', '英国', '美国', '剧情', '传记', '战争']",8.6,模仿游戏
+177,"[' Damien Chazelle', ' Miles Teller']",Whiplash,"['达米恩·查泽雷', '迈尔斯·特勒', '美国', '剧情']",8.7,爆裂鼓手
+178,"[' Stanley Donen', ' Gene Kelly']",Singin' in the Rain,"['斯坦利·多南', '吉恩·凯利', '美国', '喜剧', '歌舞']",9.0,雨中曲
+179,"[' Hannes Holm', ' Rolf']",En man som heter Ove,"['汉内斯·赫尔姆', '罗夫·拉斯加德', '瑞典']",8.8,一个叫欧维的男人决定去死
+180,[' Kei Yamamoto'],ハチ公物語,"['山本圭', '井川比佐志', '日本']",9.1,忠犬八公物语
+181,"[' Edward Zwick', ' Brad Pitt']",Legends of the Fall,"['爱德华·兹威克', '布拉德·皮特', '美国', '剧情', '爱情', '战争']",8.8,燃情岁月
+182,[' Steven Spielberg'],Artificial Intelligence: AI,"['史蒂文·斯皮尔伯格', '海利·乔·奥斯蒙', '美国', '冒险', '剧情']",8.6,人工智能
+183,"[' Shuchen Wang', ' Yunda Qian', ' Jianhua']",The Legend of Sealed Book  /  Secrets of the Heavenly Book,"['王树忱', '钱运达', '丁建华', '中国大陆', '动画']",9.2,天书奇谭
+184,"[' Hayao Miyazaki', ' Minami Takayama']",魔女の宅急便,"['宫崎骏', '高山南', '佐久间玲', '日本', '动画', '奇幻']",8.6,魔女宅急便
+185,"[' Lenny Abrahamson', ' Brie']",Room,"['伦尼·阿伯拉罕森', '布丽·拉尔森', '爱尔兰', '加拿大', '英国', '美国', '剧情']",8.8,房间
+186,"[' Mamoru Hosoda', ' Riisa Naka']",時をかける少女,"['细田守', '仲里依纱', '石田卓也', '日本', '剧情', '爱情', '科幻']",8.6,穿越时空的少女
+187,"['Andy Wachowski', 'Larry Wachowski', ' Keanu']",The Matrix Revolutions,"['基努·里维斯', '美国', '澳大利亚', '动作']",8.7,黑客帝国3：矩阵革命
+188,"[' Christopher Smith', ' Melissa']",Triangle,"['克里斯托弗·史密斯', '梅利莎·乔治', '英国', '澳大利亚', '剧情', '悬疑']",8.4,恐怖游轮
+189,"[' Hirokazu Koreeda', ' Haruka Ayase']",海街diary,"['是枝裕和', '绫濑遥', '长泽雅美', '日本', '剧情']",8.7,海街日记
+190,"[' Mervyn LeRoy', ' Vivien Leigh']",Waterloo Bridge,"['茂文·勒鲁瓦', '费雯·丽', '美国', '剧情', '爱情']",8.8,魂断蓝桥
+191,"[' Steven Spielberg', ' Tye']",Ready Player One,"['史蒂文·斯皮尔伯格', '泰伊·谢里丹', '美国', '动作', '科幻']",8.7,头号玩家
+192,"[' Danny Boyle', ' Ewan McGregor']",Trainspotting,"['丹尼·博伊尔', '伊万·麦克格雷格', '英国', '剧情']",8.5,猜火车
+193,"[' Paolo Genovese', ' Marco Giallini']",Perfetti sconosciuti,"['保罗·格诺维瑟', '马可·贾利尼', '意大利', '剧情']",8.5,完美陌生人
+194,"[' Akira Kurosawa', ' Mifune']",羅生門,"['黑泽明', '三船敏郎', '千秋实', '日本', '犯罪', '剧情']",8.8,罗生门
+195,"['Alfred Hitchcock', 'Janet Leigh', 'Anthony Perkins', 'Vera Miles']",Psycho,"['美国', '悬疑', '惊悚']",8.9,惊魂记
+196,"[' Stephen Chow', ' Stephen Chow', ' Qiu Yuen']",功夫3D  /  Kung Fu Hustle,"['周星驰', '周星驰', '元秋', '中国大陆', '中国香港', '动作', '喜剧', '犯罪']",8.4,功夫
+197,"[' Kar Wai Wong', ' Leslie Cheung', ' Maggie']",阿飛正傳,"['王家卫', '张国荣', '张曼玉', '中国香港', '犯罪', '剧情']",8.5,阿飞正传
+198,"[' Tom Tykwer', ' Ben Whishaw']",Perfume: The Story of a Murderer,"['汤姆·提克威', '本·卫肖', '德国', '法国', '西班牙', '美国', '剧情', '犯罪']",8.5,香水
+199,"[' Chuan Lu', ' Duobujie', ' Lei Zhang', ' Qi']",Kekexili: Mountain Patrol,"['陆川', '多布杰', '张磊', '亓亮', '中国大陆', '中国香港', '剧情']",8.7,可可西里
+200,"[' Paul Greengrass', ' Matt Damon']",The Bourne Supremacy,"['保罗·格林格拉斯', '马特·达蒙', '美国', '德国', '动作', '悬疑']",8.6,谍影重重2
+201,"[' Edward Yang', ' Chen Chang', ' Lisa Yang']",牯嶺街少年殺人事件,"['杨德昌', '张震', '杨静怡', '中国台湾', '剧情']",8.8,牯岭街少年杀人事件
+202,"[' Stephen Daldry', ' Kate Winslet']",The Reader,"['史蒂芬·戴德利', '凯特·温丝莱特', '美国', '德国', '剧情']",8.5,朗读者
+203,"[' Dennis Gansel', ' Vogel']",Die Welle,"['丹尼斯·甘塞尔', '尤尔根·沃格尔', '德国', '剧情']",8.7,浪潮
+204,"[' Doug Liman', ' Matt Damon']",The Bourne Identity,"['道格·里曼', '马特·达蒙', '美国', '德国', '捷克', '动作', '悬疑']",8.6,谍影重重
+205,"[' Hao Ning', ' Tao Guo', ' Hua Liu', ' Teddy Lin']",Crazy Stone,"['宁浩', '郭涛', '刘桦', '连晋', '中国大陆', '中国香港', '喜剧']",8.4,疯狂的石头
+206,"[' Andrew Niccol', ' Nicolas Cage']",Lord of War,"['安德鲁·尼科尔', '尼古拉斯·凯奇', '美国', '法国', '剧情']",8.6,战争之王
+207,"[' Aamir Khan', ' Darsheel Safary']",Taare Zameen Par,"['阿米尔·汗', '达席尔·萨法瑞', '印度', '剧情', '儿童']",8.9,地球上的星星
+208,[' Puttipong Promsaka Na Sakolnakorn'],สิ่งเล็กเล็กที่เรียกว่า...รัก,"['普特鹏·普罗萨卡·那·萨克那卡林', '泰国', '剧情', '喜剧']",8.3,初恋这件小事
+209,"[' Hark Tsui', ' Maggie Cheung', ' Joey Wang']",Green Snake,"['徐克', '张曼玉', '王祖贤', '中国香港', '剧情', '爱情', '奇幻']",8.5,青蛇
+210,"[' James Cameron', ' Arnold']",Terminator 2: Judgment Day,"['詹姆斯·卡梅隆', '阿诺·施瓦辛格', '美国', '法国', '动作']",8.6,终结者2：审判日
+211,"[' Stephen Chbosky', ' Jacob']",Wonder,"['斯蒂芬·卓博斯基', '雅各布·特伦布莱', '美国', '中国香港', '剧情', '儿童']",8.6,奇迹男孩
+212,"[' Richard Linklater', ' Ethan Hawke']",Before Midnight,"['理查德·林克莱特', '伊桑·霍克', '美国', '希腊', '剧情']",8.8,爱在午夜降临前
+213,"[' Duncan Jones', ' Jake Gyllenhaal']",Source Code,"['邓肯·琼斯', '杰克·吉伦哈尔', '美国', '加拿大', '科幻', '悬疑']",8.4,源代码
+214,"[' Raymond Lee', ' Maggie Cheung', ' Brigitte']",新龍門客棧,"['李惠民', '张曼玉', '林青霞', '中国香港', '中国大陆', '动作', '爱情', '武侠']",8.6,新龙门客栈
+215,"[' Hirokazu Koreeda', ' Hiroshi Abe']",歩いても 歩いても,"['是枝裕和', '阿部宽', '夏川结衣', '日本', '剧情']",8.8,步履不停
+216,"[' Kabir Khan', ' Salman Khan']",Bajrangi Bhaijaan,"['卡比尔·汗', '萨尔曼·汗', '印度', '剧情', '喜剧']",8.5,小萝莉的猴神大叔
+217,"['Quentin Tarantino', ' Brad Pitt']",Inglourious Basterds,"['布拉德·皮特', '梅拉尼·罗兰', '美国', '德国', '剧情']",8.5,无耻混蛋
+218,"['ho Yeon', ' Yoo Gong', 'mi Jung']",부산행,"['延尚昊', '孔侑', '郑有美', '韩国', '动作', '惊悚']",8.4,釜山行
+219,"[' John Carney', ' Keira Knightley']",Begin Again,"['约翰·卡尼', '凯拉·奈特莉', '美国', '喜剧', '爱情']",8.5,再次出发之纽约遇见你
+220,"['  Asghar Farhadi', ' Peyman Moadi']",جدایی نادر از سیمین,"['阿斯哈·法哈蒂', '佩曼·莫阿迪', '伊朗', '法国', '剧情']",8.7,一次别离
+221,[' Christopher Nolan'],Following,"['克里斯托弗·诺兰', '杰里米·西奥伯德', '英国', '犯罪', '悬疑']",8.9,追随
+222,"['jung Park', 'Jae Lee']",신세계,"['朴勋政', '李政宰', '崔岷植', '韩国', '剧情']",8.7,新世界
+223,"[' Edward Zwick', ' Leonardo']",Blood Diamond,"['爱德华·兹威克', '莱昂纳多·迪卡普里奥', '美国', '德国', '剧情', '惊悚']",8.6,血钻
+224,[' James Ward Byrkit'],Coherence,"['詹姆斯·沃德·布柯特', '艾米丽·芭尔多尼', '美国', '英国', '科幻', '悬疑']",8.5,彗星来的那一夜
+225,"[' Stanley Kubrick', ' Keir Dullea']",2001: A Space Odyssey,"['斯坦利·库布里克', '凯尔·杜拉', '英国', '美国', '科幻', '惊悚']",8.7,2001太空漫游
+226,"['Charles Chaplin', ' Charles Chaplin']",City Lights,"['查理·卓别林', '美国', '喜剧', '剧情']",9.3,城市之光
+227,[' Ozu'],東京物語,"['小津安二郎', '笠智众', '日本', '剧情']",9.2,东京物语
+228,"['Frank Darabont', ' Tom Hanks', ' David']",The Green Mile,"['汤姆·汉克斯', '大卫·摩斯', '美国', '犯罪', '剧情', '奇幻']",8.7,绿里奇迹
+229,"[' Paul Haggis', ' Sandra Bullock']",Crash,"['保罗·哈吉斯', '桑德拉·布洛克', '美国', '德国', '犯罪']",8.6,撞车
+230,"[' Darren Aronofsky', ' Ellen']",Requiem for a Dream,"['达伦·阿伦诺夫斯基', '艾伦·伯斯汀', '美国']",8.7,梦之安魂曲
+231,"[' George Miller', ' Tom Hardy']",Mad Max: Fury Road,"['乔治·米勒', '汤姆·哈迪', '澳大利亚', '美国', '动作', '科幻']",8.6,疯狂的麦克斯4：狂暴之路
+232,"[' Thomas McCarthy', ' Mark Ruffalo']",Spotlight,"['托马斯·麦卡锡', '马克·鲁弗洛', '美国', '剧情']",8.8,聚焦
+233,"[' Steven Spielberg', ' Henry']",E.T.: The Extra-Terrestrial,"['史蒂文·斯皮尔伯格', '亨利·托马斯', '美国', '剧情']",8.6,E.T. 外星人
+234,"[' Ridley Scott', ' Josh Hartnett']",Black Hawk Down,"['雷德利·斯科特', '乔什·哈奈特', '美国', '动作', '历史']",8.6,黑鹰坠落
+235,"[' Richard Schenkman', ' David']",The Man from Earth,"['理查德·沙因克曼', '大卫·李·史密斯', '美国', '剧情']",8.5,这个男人来自地球
+236,"[' Ridley Scott', ' Geena Davis']",Thelma & Louise,"['雷德利·斯科特', '吉娜·戴维斯', '美国', '法国', '犯罪', '剧情']",8.7,末路狂花
+237,"[' Rob Reiner', ' Jack Nicholson']",The Bucket List,"['罗伯·莱纳', '杰克·尼科尔森', '美国', '冒险', '喜剧']",8.6,遗愿清单
+238,"['Stanley Kubrick', 'Malcolm McDowell', 'Patrick Magee']",A Clockwork Orange,"['英国', '美国', '犯罪', '剧情']",8.5,发条橙
+239,"[' John Woo', ' John Travolta']",Face/Off,"['吴宇森', '约翰·特拉沃尔塔', '美国', '动作', '科幻', '犯罪']",8.4,变脸
+240,"[' Tom Hooper', ' Colin Firth']",The King's Speech,"['汤姆·霍珀', '柯林·菲尔斯', '英国', '澳大利亚', '美国', '剧情', '传记']",8.4,国王的演讲
+241,"['min Choo', 'ho Song']",그대를 사랑합니다,"['秋昌民', '宋在河', '李顺载', '韩国', '剧情']",9.0,我爱你
+242,"[' Michael Bay', ' Sean Connery']",The Rock,"['迈克尔·贝', '肖恩·康纳利', '美国', '动作']",8.6,勇闯夺命岛
+243,"[' Andrew Niccol', ' Ethan Hawke']",Gattaca,"['安德鲁·尼科尔', '伊桑·霍克', '美国', '剧情', '科幻']",8.7,千钧一发
+244,"['Chris Columbus', ' Daniel Radcliffe']",Harry Potter and the Chamber of Secrets,"['丹尼尔·雷德克里夫', '美国', '英国', '德国', '奇幻']",8.4,哈利·波特与密室
+245,"['Alfonso', ' Daniel Radcliffe']",Harry Potter and the Prisoner of Azkaban,"['丹尼尔·雷德克里夫', '英国', '美国', '剧情', '奇幻']",8.5,哈利·波特与阿兹卡班的囚徒
+246,"['Sergio Leone', 'Clint Eastwood', 'Eli Wallach', 'Lee Van Cleef']","Il buono, il brutto, il cattivo.","['意大利', '西班牙', '西德', '冒险']",9.1,黄金三镖客
+247,"[' Bryan Singer', ' Stephen Baldwin']",The Usual Suspects,"['布莱恩·辛格', '史蒂芬·鲍德温', '德国', '美国', '剧情', '犯罪', '悬疑']",8.6,非常嫌疑犯
+248,"[' Shen Zhou', ' Lu Liu', ' Suxi Ren', ' Da Li']",Mr. Donkey,"['周申', '刘露', '任素汐', '大力', '中国大陆', '剧情']",8.3,驴得水
+249,"[' Makoto Shinkai', ' Kenji Mizuhashi']",秒速5センチメートル,"['新海诚', '水桥研二', '近藤好美', '日本', '动画', '剧情']",8.3,秒速5厘米
