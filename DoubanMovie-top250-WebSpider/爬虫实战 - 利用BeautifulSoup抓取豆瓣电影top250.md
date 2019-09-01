@@ -46,7 +46,7 @@ https://movie.douban.com/top250?start=50&filter=
 首先我们先看一下，爬下来的东西
 ![image.png](https://upload-images.jianshu.io/upload_images/19398691-2791495368f3168d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ### 网页结构怎么看
-比如<div> ......... </div>中间代表一级，就像是左括号和右括号一样。我要看的电影信息就在<div class='item'>里面；
+比如`<div> ......... </div>`中间代表一级，就像是左括号和右括号一样。我要看的电影信息就在`<div class='item'>`里面；
 再举个例子，我要找到电影的title，路径是这样的：
 1 `<div class='item'> `
 2 `<div class="hd">`
